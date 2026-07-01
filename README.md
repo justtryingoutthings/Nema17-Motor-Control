@@ -32,13 +32,13 @@ Half step – 400 steps per revolution. A1, A1-A2, A2, A2-B1,B1, B1-B2,B2,B2-A2 
 1/8 step – 1600 steps per revolution.
 1/16 step – 3200 steps per revolution.
 1/32 step – 6400 steps per revolution.
-
-
-Ritisha Tripathy,
-NIT,Durgapur.
 (drv8825 driver has 1/32 microstepping configuration)
 
 Trouble shooting:
 1.	Motor doesn’t rotate, only vibrates :
 There are chances of loose connection or fault in connection of coils.
 You may also check and adjust the input of the delay() function accordingly.
+
+Ritisha Tripathy,
+NIT,Durgapur.
+
