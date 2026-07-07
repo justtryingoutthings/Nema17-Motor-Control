@@ -9,7 +9,7 @@ Breadboard / Jumper Wires	As required
 Finding phases of the stepper motor: We can further Connect one of it’s phases to A1, A2 and another to B1,B2.
  Check for the resistance between each wire of the motor, if the wires belong to the same coil, there will exist some resistance. For wires from 2 different coils there will be no resistance. 
 1.	Both the coils have nearly the same resistance.
-2.	The Beep mode in the multi-metre can also be used to check if the wires belong to the same coil.
+2.	The Beep mode in the multi-metre can also be used to check if the wires belong to the same coil. (It'll beep if wires are connected i.e belong to the same coil.)
 3.	2 endings of the coils are the 2 wires and belong to 1 phase.
 
 Wiring Connections of drv8825:
@@ -39,6 +39,4 @@ Trouble shooting:
 There are chances of loose connection or fault in connection of coils.
 You may also check and adjust the input of the delay() function accordingly.
 
-Ritisha Tripathy,
-NIT,Durgapur.
-
+Ritisha Tripathy.
